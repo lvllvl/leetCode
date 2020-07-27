@@ -12,8 +12,7 @@ def extraCandies( candies, extraCandies ):
   
 
 candies = [ 4, 2, 1, 1, 2 ]
-extraCandies = 1
+extraC = 1
 
-print( extraCandies  )
-extraCandies( candies, extraCandies )
+print( extraCandies( candies, extraC ))
 
